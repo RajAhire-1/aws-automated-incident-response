@@ -206,6 +206,4 @@ Cloud Operations Engineer Intern
 
 ---
 
-**Project Type:** AWS Automated Operations  
-**Status:** Completed  
-**Internship Project Set:** 8
+*
